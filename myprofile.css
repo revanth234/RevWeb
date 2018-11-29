@@ -1,0 +1,107 @@
+.card {
+  box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.9);
+  max-width: 400px;
+  margin: auto;
+   background-color: white;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+.header {
+  padding: 40px;
+ 
+  background: url('7137a244129d366493dc526bcc1e1b51f7f89de5.jpg');
+  background-repeat:no-repeat;
+  
+  
+}
+table{
+	position:relative;
+	top:20px;
+}
+table,tr{
+border:2px solid black;
+}
+th{
+    padding: 15px;
+    text-align: center;
+	border:2px solid black;
+}
+td {
+	padding: 15px;
+    text-align: left;
+	border:2px solid black;
+	}
+.content{
+ padding: 40px;
+}
+
+
+.skill {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+.c {width: 80%; background-color: #4CAF50;}
+.cp{width: 60%; background-color: #4682B4;}
+.java {width: 70%; background-color: #f44336;}
+.python {width: 90%; background-color: #808080;}
+.html {width: 85%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 70%; background-color: #f44336;}
+.php {width: 90%; background-color: #008080;}
+
+.cont{
+	position:relative;
+	top:10px;
+  box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.9);
+  max-width: 530px;
+  height:250px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-image:url('BlueBackground_workshops-hero-size.jpg')
+}
+.cont1{
+	position:relative;
+	top:10px;
+  box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.9);
+  max-width: 550px;
+  height:250px;
+  margin: auto;
+  text-align: center;
+  
+  background-image:url('BlueBackground_workshops-hero-size.jpg');
+}
